@@ -1,0 +1,14 @@
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\bin\Debug\net8.0\FunctionIn.exe
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\bin\Debug\net8.0\FunctionIn.deps.json
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\bin\Debug\net8.0\FunctionIn.runtimeconfig.json
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\bin\Debug\net8.0\FunctionIn.dll
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\bin\Debug\net8.0\FunctionIn.pdb
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\FunctionIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\FunctionIn.AssemblyInfoInputs.cache
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\FunctionIn.AssemblyInfo.cs
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\FunctionIn.csproj.CoreCompileInputs.cache
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\FunctionIn.dll
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\refint\FunctionIn.dll
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\FunctionIn.pdb
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\FunctionIn.genruntimeconfig.cache
+C:\FALL2024\PRN212\Bai3\Integers\FunctionIn\obj\Debug\net8.0\ref\FunctionIn.dll
